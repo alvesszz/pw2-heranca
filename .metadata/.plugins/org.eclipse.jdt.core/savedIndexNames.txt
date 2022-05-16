@@ -11,7 +11,6 @@ INDEX VERSION 1.131+C:\Users\Aluno\Documents\pw2\beatriz-fabia\.metadata\.plugin
 13312295.index
 1837412415.index
 17747532.index
-1935647911.index
 3357027734.index
 3918747399.index
 1060138015.index
