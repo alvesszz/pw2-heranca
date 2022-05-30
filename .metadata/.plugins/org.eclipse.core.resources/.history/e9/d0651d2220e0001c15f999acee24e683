@@ -1,0 +1,13 @@
+
+public class TestaEBook {
+ 
+	public static void main(String[] args) {
+
+	 r1 = 20;
+	 
+	 Ebook n1 = new Ebook (aplicarDesconto());
+	 
+	 System.out.println(n1.aplicarDesconto(r1));
+	 
+}
+}
